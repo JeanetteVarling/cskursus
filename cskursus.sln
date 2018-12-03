@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 1 Fejlhåndtering (simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 2 Fejlhåndtering (egen exception)", "ConsoleApp1\8 2 Fejlhåndtering (egen exception).csproj", "{F536B595-AA1D-4F68-8035-9F57AF431C1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 1 hukommelse struct class", "ConsoleApp2\9 1 hukommelse struct class.csproj", "{24038606-4161-4D99-9A3D-5558252428FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 1 hukommelse struct", "ConsoleApp2\9 1 hukommelse struct.csproj", "{24038606-4161-4D99-9A3D-5558252428FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 1 hukommelse class", "ConsoleApp3\9 1 hukommelse class.csproj", "{551FCD51-8BE9-4651-95D2-D4A9F6A784F9}"
 EndProject
