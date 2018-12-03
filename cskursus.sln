@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 1 hukommelse class", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 1 klasser", "10 1 klasser\10 1 klasser.csproj", "{68228B9E-45E2-47A4-9B08-198A466C4F71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 2 klasser terning", "10 2 klasser terning\10 2 klasser terning.csproj", "{855A8AAC-02E0-40DD-834D-E9D1D3D92152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "til copy", "til copy\til copy.csproj", "{83C7DB35-8670-479B-A9EA-DA2AEBFC2976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{68228B9E-45E2-47A4-9B08-198A466C4F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68228B9E-45E2-47A4-9B08-198A466C4F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68228B9E-45E2-47A4-9B08-198A466C4F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855A8AAC-02E0-40DD-834D-E9D1D3D92152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855A8AAC-02E0-40DD-834D-E9D1D3D92152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855A8AAC-02E0-40DD-834D-E9D1D3D92152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855A8AAC-02E0-40DD-834D-E9D1D3D92152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C7DB35-8670-479B-A9EA-DA2AEBFC2976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C7DB35-8670-479B-A9EA-DA2AEBFC2976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C7DB35-8670-479B-A9EA-DA2AEBFC2976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C7DB35-8670-479B-A9EA-DA2AEBFC2976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
