@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 3 Klasser Statisk", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 1 Indkapsling KUN brug private", "ConsoleApp5\11 1 Indkapsling KUN brug private.csproj", "{5745D442-7BA7-4C88-903C-D73397DD8BCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 2 Egenskaber - Automatisk egenskab", "11 2 Auto\11 2 Egenskaber - Automatisk egenskab.csproj", "{F7325091-B44C-424F-A8B6-0F78AC703DC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{5745D442-7BA7-4C88-903C-D73397DD8BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5745D442-7BA7-4C88-903C-D73397DD8BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5745D442-7BA7-4C88-903C-D73397DD8BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7325091-B44C-424F-A8B6-0F78AC703DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7325091-B44C-424F-A8B6-0F78AC703DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7325091-B44C-424F-A8B6-0F78AC703DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7325091-B44C-424F-A8B6-0F78AC703DC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
