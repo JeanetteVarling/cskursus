@@ -13,6 +13,8 @@ namespace _11_2_Auto
             p.Efternavn = "Varling";
             Console.WriteLine(p.FuldtNavn());
 
+            Console.WriteLine(p.personegenskab);
+
             // Hold console åben ved debug
             if (System.Diagnostics.Debugger.IsAttached)
             {
