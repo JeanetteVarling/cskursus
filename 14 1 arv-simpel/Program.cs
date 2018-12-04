@@ -21,7 +21,7 @@ namespace _14_1_arv_simpel
         // En egenskab kaldet Fornavn(implementeret som en automatisk egenskab – brug ”prop” + tab)
         // En egenskab kaldet Efternavn(implementeret som en automatisk egenskab – brug ”prop” + tab)
         // En metode kaldet FuldtNavn som returnerer Fornavn + ” ” + Efternavn
-        class Person
+        class Person  
         { 
             public string Fornavn { get; set; }
             public string Efternavn { get; set; }
